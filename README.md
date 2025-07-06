@@ -40,10 +40,10 @@
 
 ## 📫 Let's Connect
 
-- 📧 [sahmer003@gmail.com](mailto:sahmer003@gmail.com)  
-- 💼 [![LinkedIn](https://img.shields.io/badge/-Sh%20M%20Ahmer-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sh-m-ahmer-53100b207)
 
-- 💻 Portfolio: *(Coming Soon)*
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahmer003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Sh%20M%20Ahmer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sh-m-ahmer-53100b207)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 ---
 
