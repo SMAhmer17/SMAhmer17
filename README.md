@@ -2,16 +2,23 @@
 
 🚀 Flutter Lead @ [BlackCube Technologies](https://blackcubetechnologies.com)  
 🎓 Bachelors in Computer Science - UBIT, University of Karachi  
-📍 Based in Pakistan | Open to collaboration
+📍 Based in Karachi, Pakistan | Open to collaboration
 
 ---
 
 ## 🛠 Tech Stack
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Hive](https://img.shields.io/badge/Hive-FFA500?style=for-the-badge&logo=hive&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-ff69b4?style=for-the-badge)
+![REST API](https://img.shields.io/badge/API-Integration-6DB33F?style=for-the-badge&logo=postman&logoColor=white)
+![Play Store](https://img.shields.io/badge/Play%20Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white)
+![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=app-store-ios&logoColor=white)
 
 ---
 
@@ -33,8 +40,12 @@
 
 ## 📫 Let's Connect
 
-- 📧 Email: shaikh.ahmer.dev@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/shaikhmuhammadahmer](https://linkedin.com/in/shaikhmuhammadahmer)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sh-m-ahmer-53100b207)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahmer003@gmail.com)
+
+- 📧 Email: sahmer003@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/sh-m-ahmer-53100b207](https://www.linkedin.com/in/sh-m-ahmer-53100b207)  
 - 💻 Portfolio: *(Coming Soon)*
 
 ---
